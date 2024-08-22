@@ -1,3 +1,4 @@
+```go
 package main
 
 type Me struct {
